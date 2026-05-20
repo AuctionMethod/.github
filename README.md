@@ -11,10 +11,10 @@ Our SaaS platform is plug-and-play — flat-fee, fully featured, and ready to la
 Our Custom Solutions are for larger firms and complex operations whose workflows don't fit off-the-shelf tools. We start with our proven core, then shape it around your business: your processes, your asset types, your integrations, your edge cases. Two paths. One promise: run your auctions your way, keep more of what you earn, and grow on a platform built for the long haul.
 
 Get Started
-🔗 [See AuctionMethod in action](https://www.auctionmethod.com/demo-auction-software ?utm_source=github&utm_medium=referral&utm_campaign=org-profile) 
-🔗 [Start your free 30-day trial](https://www.auctionmethod.com/free-trial-auction-software ?utm_source=github&utm_medium=referral&utm_campaign=org-profile) 
-🔗 [View pricing](https://www.auctionmethod.com/pricing ?utm_source=github&utm_medium=referral&utm_campaign=org-profile) 
-🔗 [Scedule a Custom Development Scoping Call] (https://www.auctionmethod.com/demo-auction-software ?utm_source=github&utm_medium=referral&utm_campaign=org-profile)
+🔗 [See AuctionMethod in action](https://www.auctionmethod.com/demo-auction-software?utm_source=github&utm_medium=referral&utm_campaign=org-profile) 
+🔗 [Start your free 30-day trial](https://www.auctionmethod.com/free-trial-auction-software?utm_source=github&utm_medium=referral&utm_campaign=org-profile) 
+🔗 [View pricing](https://www.auctionmethod.com/pricing?utm_source=github&utm_medium=referral&utm_campaign=org-profile) 
+🔗 [Scedule a Custom Development Scoping Call] (https://www.auctionmethod.com/demo-auction-software?utm_source=github&utm_medium=referral&utm_campaign=org-profile)
 
 Built in Massachusetts. Trusted by auctioneers across the U.S., Canada, New Zealand and Australia. We're auction people building auction software — and we've been doing it long enough to know what actually matters: reliability, control, and keeping more of what you earn.
 
